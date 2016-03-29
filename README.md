@@ -1,5 +1,5 @@
 # LOLTimez
-
+League of Legends summoner spell timer for mac.
 ### Todo
 - Make timer non-blocking
 - Make it work for borderless mode
@@ -22,3 +22,6 @@ The program displays as in screenshot this, spells go grey and get timer on them
 
 ### Screenshot
 ![How it looks](http://i.imgur.com/974ubZ1.png)
+
+Inspired by:
+[this](https://www.reddit.com/r/leagueoflegends/comments/4c78hh/i_wrote_a_legal_program_to_track_summoner_spells/)

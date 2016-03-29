@@ -1,0 +1,10 @@
+{
+  "API_KEY": "YOUR API KEY HERE",
+  "SUMMONER_NAME": "Ahrip",
+  "REGION": "euw",
+  "PLATFORM_ID": "EUW1",
+  "DOWNLOAD_NEW_ASSETS": false,
+  "TESTING": true,
+  "NOTES_PATH": "/Applications/League of Legends.app/Contents/LoL/RADS/solutions/lol_game_client_sln/releases/0.0.0.205/MyNotes.txt",
+  "LOCALE": "en_GB"
+}
