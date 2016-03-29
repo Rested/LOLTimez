@@ -12,11 +12,13 @@ Time summoner spells in league of legends by typing
   
   
   where:
-    - **x**=summoner (number 1-5), 
-    - **y**=spell (number 1-5), 
-    - **z**=time ago that spell was used
+  - **x**=summoner (number 1-5), 
+  - **y**=spell (number 1-2), 
+  - **z**=time ago that spell was used
 
-The program displays like this, spells go grey and get timer on them when command input:
+You will need an api key [from here](https://developer.riotgames.com/).
+The program shows up only when the game is running.
+The program displays as in screenshot this, spells go grey and get timer on them when command input:
 
 ### Screenshot
 ![How it looks](http://i.imgur.com/974ubZ1.png)
